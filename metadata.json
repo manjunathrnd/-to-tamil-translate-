@@ -1,0 +1,6 @@
+{
+  "name": "Word — ಪದ — சொல்",
+  "description": "A trilingual dictionary tool bridging Kannada, English, and Tamil with native scripts, pronunciations, definitions, and cultural notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

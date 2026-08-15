@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  --font-fraunces: 'Fraunces', Georgia, serif;
+  --font-kannada: 'Noto Serif Kannada', serif;
+  --font-tamil: 'Noto Serif Tamil', serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+  
+  --color-canvas: #17130F;
+  --color-card: #211A14;
+  --color-gold: #C8973E;
+  --color-maroon: #A8493F;
+  --color-teal: #3E7A70;
+  --color-cream: #EFE6D3;
+}
+
+body {
+  background-color: #17130F;
+  color: #EFE6D3;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.font-fraunces {
+  font-family: 'Fraunces', Georgia, serif;
+}
+
+.font-kannada {
+  font-family: 'Noto Serif Kannada', serif;
+}
+
+.font-tamil {
+  font-family: 'Noto Serif Tamil', serif;
+}
+
+.font-sans-ui {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+}
